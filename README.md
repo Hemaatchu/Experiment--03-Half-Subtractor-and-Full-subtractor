@@ -35,20 +35,37 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
 
-## Output:
+
+Developed by: Hemavathy.S
+RegisterNumber: 23013552 
+
+
+
+## Code: 
+![exp 4 half sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/f701d982-8ad6-4b69-a01a-0eae610266d0)
+![exp 4 fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/2692913b-1c5b-4e13-8f70-3f5e0b37c399)
+
 
 ## Truthtable
+![exp 4 half sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/5d936674-a8e4-4a6e-ba8d-4e4a4d4740ad)
+
+![exp 4 fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/8659e33f-247e-4291-897f-ffbea528b6f6)
 
 
 
-##  RTL realization
+## Output RTL realization
+![exp4halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/2735e144-48c1-43eb-896d-ad79b925f205)
+
+![exp4fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/41071d8a-f790-451e-9c1c-188eed444509)
 
 
 ## Timing diagram 
+![halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/399e292c-87ed-4407-aa7e-e45faaf4779d)
+
+![fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/0b57ab5b-47d1-49d9-891c-7554cd7819d7)
+
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
