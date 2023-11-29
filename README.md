@@ -48,10 +48,9 @@ RegisterNumber: 23013552
 
 
 ## Truthtable
-![exp 4 half sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/5d936674-a8e4-4a6e-ba8d-4e4a4d4740ad)
+![exp4 halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/02cc0094-56e1-4b0e-8c92-27440279a610)
 
-![exp 4 fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/8659e33f-247e-4291-897f-ffbea528b6f6)
-
+![exp4 full sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/81bc5ff0-32d0-4e36-af3e-262b0653f382)
 
 
 ## Output RTL realization
