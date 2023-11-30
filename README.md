@@ -43,27 +43,49 @@ RegisterNumber: 23013552
 
 
 ## Code: 
+
+## Half subtractor
 ![exp 4 half sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/f701d982-8ad6-4b69-a01a-0eae610266d0)
+
+## Full subtarctor
 ![exp 4 fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/2692913b-1c5b-4e13-8f70-3f5e0b37c399)
 
 
 ## Truthtable
+
+## Half subtractor
+
 ![exp4 halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/02cc0094-56e1-4b0e-8c92-27440279a610)
+
+## Full Subtractor
 
 ![exp4 full sub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/81bc5ff0-32d0-4e36-af3e-262b0653f382)
 
 
 ## Output RTL realization
+
+## Half subtractor
+
 ![exp4halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/2735e144-48c1-43eb-896d-ad79b925f205)
+
+
+## Full subtractor
+
 
 ![exp4fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/41071d8a-f790-451e-9c1c-188eed444509)
 
 
 ## Timing diagram 
-![halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/399e292c-87ed-4407-aa7e-e45faaf4779d)
 
-![fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/0b57ab5b-47d1-49d9-891c-7554cd7819d7)
+## Half Subtractor
 
+![exp4halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/cd609a24-0cb2-4ee0-8421-80cac70ede6e)
+
+
+## Full Subtractor
+
+
+![exp4fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/2cfdda7d-06b5-461d-ada5-a78e3635b64a)
 
 
 ## Result:
