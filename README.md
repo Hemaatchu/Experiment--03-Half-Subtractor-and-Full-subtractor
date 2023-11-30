@@ -66,25 +66,28 @@ RegisterNumber: 23013552
 
 ## Half subtractor
 
-![exp4halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/6406266b-ab36-4a1b-83c0-f52c2c47975c)
+
+![halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/089e5857-fa59-47ec-83eb-d1bd29af4055)
 
 
 ## Full subtractor
 
-![exp4fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/01604279-0fb9-4453-a62b-517e4937a4e1)
 
 
+![fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/02b341e6-3fb4-4c00-9e02-bb7f4a235940)
+ 
 
 ## Timing diagram 
 
 ## Half Subtractor
 
-![halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/089e5857-fa59-47ec-83eb-d1bd29af4055)
+![exp4halfsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/6406266b-ab36-4a1b-83c0-f52c2c47975c)
 
 
 ## Full Subtractor
 
-![fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/02b341e6-3fb4-4c00-9e02-bb7f4a235940)
+![exp4fullsub](https://github.com/Hemaatchu/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147328300/01604279-0fb9-4453-a62b-517e4937a4e1)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
